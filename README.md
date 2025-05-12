@@ -26,12 +26,9 @@ Here are some ideas to get you started:
 <div align='center'>
   She/Her
   <p align='center'>
-    <a href="https://www.linkedin.com/in/justin-joseph-620702153/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/eeht1717"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="mailto:justinec82@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
-    <a href="https://open.spotify.com/user/31hwcqsifxpl57olnj2yqq6iijiq" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/jus._.jos/" target="_blank"><img height="37" src="https://user-images.githubusercontent.com/91304818/236823617-54d23c2d-bb55-462d-862a-531f583ac7cc.png"></a>&nbsp;&nbsp;
-    <a href="https://discord.gg/3A94E29vFt" target="_blank"><img height="30" src="https://user-images.githubusercontent.com/91304818/235352366-444890af-bff2-48b9-b3e9-9d1bbece6d1e.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://x.com/SingalOmisha"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="mailto:omishasingal03@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
   </p>
 </div>
 
