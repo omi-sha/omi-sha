@@ -49,31 +49,7 @@ Here are some ideas to get you started:
 </p>
 
  
-```dart
-//PERSONAL DRAFT
-#include <family.h>
-#include <friends.h>
-#include <goals.h>
-#include <devSkills.h>
-#include <consistency.h>
-#include <journey.h>
 
-struct Happiness {
-    int peace;
-};
-
-Happiness liveHappyLife() {
-    return {efforts() + family::bond() + friends::bond() + goals::achieve() +
-            devSkills::improve() + consistency::maintain() + journey::enjoy()};
-}
-
-int main() {
-    Happiness futureHappiness = liveHappyLife();
-    std::cout << "Future Happiness Level: " << future_happiness.peace << std::endl;
-    return 0;
-}
-
-```
 
 <div align='right'>
  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" align='right' width="70" style="margin-right: -50px">
