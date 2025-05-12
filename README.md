@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <br><br><br><br><br><br><br>
 <div align='center'>
-  He/Him
+  She/Her
   <p align='center'>
     <a href="https://www.linkedin.com/in/justin-joseph-620702153/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/eeht1717"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
