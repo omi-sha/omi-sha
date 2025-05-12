@@ -1,4 +1,4 @@
-### Hi there 👋
+### Tehee it's Omisha 😄
 
 <!--
 **omi-sha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
