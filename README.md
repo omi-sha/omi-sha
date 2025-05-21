@@ -48,7 +48,8 @@ Here are some ideas to get you started:
  <!-- 
 Holopin
  -->
-[![An image of @omisha4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omisha4)](https://holopin.io/@omisha4)
+
+ [![An image of @omisha4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omisha4)](https://holopin.io/@omisha4)
 
 <div align='right'>
  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" align='right' width="70" style="margin-right: -50px">
